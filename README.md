@@ -1,7 +1,9 @@
 <!-- perAI · Erfan Jalal — GitHub profile README -->
 
 <div align="center">
-  <img src="banner.svg" alt="Erfan Jalal — AI Engineer · perAI Studio. Intelligence, engineered. Custom AI models, agents & automation for real-world problems." width="100%" />
+  <a href="https://perai.ir">
+    <img src="banner.svg" alt="Erfan Jalal — AI Engineer · perAI Studio. Intelligence, engineered. Custom AI models, agents & automation for real-world problems." width="100%" />
+  </a>
 </div>
 
 
@@ -10,7 +12,7 @@
 <div align="center">
   <a href="https://perai.ir"><img src="https://img.shields.io/badge/perai.ir-visit-2A58FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="perai.ir"/></a>
   &nbsp;
-  <a href="mailto:info@perai.ir"><img src="https://img.shields.io/badge/Email%20me-info%40perai.ir-0C1120?style=for-the-badge&logo=gmail&logoColor=8FA9FF&labelColor=0C1120&color=4A6DFF" alt="Email"/></a>
+  <a href="mailto:erfan.jalal@ymail.com"><img src="https://img.shields.io/badge/Email%20me-erfan.jalal%40ymail.com-0C1120?style=for-the-badge&logo=yahoo&logoColor=8FA9FF&labelColor=0C1120&color=4A6DFF" alt="Email"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/erfan-jalal"><img src="https://img.shields.io/badge/LinkedIn-erfan--jalal-0C1120?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1120&color=2A58FB" alt="LinkedIn"/></a>
   &nbsp;
@@ -24,7 +26,6 @@
   <a href="#about"><b>About</b></a> ·
   <a href="#projects"><b>Selected work</b></a> ·
   <a href="#toolbox"><b>Toolbox</b></a> ·
-  <a href="#activity"><b>Activity</b></a> ·
   <a href="#connect"><b>Connect</b></a>
 </div>
 
@@ -70,13 +71,15 @@ text-to-image · face detection.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black)
+![Mamba / SSMs](https://img.shields.io/badge/Mamba%20%2F%20SSMs-6B88FF?style=flat-square)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Applied AI**
 ![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-2A58FB?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20Retrieval-4A6DFF?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6B88FF?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20%2F%20OCR-8FA9FF?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B88FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8FA9FF?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-A9BCFF?style=flat-square)
 
 **Systems & delivery**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -84,23 +87,29 @@ text-to-image · face detection.
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Smart%20Dashboards-E0C58B?style=flat-square)
 
+<!-- 📈 Activity — temporarily hidden on purpose.
+     With only a handful of contributions so far, near-empty stat cards weaken the page
+     instead of strengthening it. The whole section is preserved below as a comment:
+     once you have a few months of real activity and your first published repos,
+     delete this comment block and the stat cards come back automatically.
+
 <a id="activity"></a>
 
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfan-jalal&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4A6DFF&icon_color=8FA9FF&text_color=9FB0D8" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=erfan-jalal&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4A6DFF&icon_color=8FA9FF&text_color=9FB0D8" alt="GitHub stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erfan-jalal&hide_border=true&background=0A0F1C&ring=4A6DFF&fire=E0C58B&currStreakLabel=8FA9FF&sideLabels=9FB0D8&dates=5E6B85" alt="Streak stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=erfan-jalal&hide_border=true&background=0A0F1C&ring=4A6DFF&fire=E0C58B&currStreakLabel=8FA9FF&sideLabels=9FB0D8&dates=5E6B85" alt="Streak stats" height="165"/>
 </div>
 
-
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-jalal&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=4A6DFF&text_color=9FB0D8" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erfan-jalal&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=4A6DFF&text_color=9FB0D8" alt="Top languages" height="150"/>
 </div>
 
+
+-->
 
 <a id="connect"></a>
 
@@ -108,7 +117,7 @@ text-to-image · face detection.
 
 - 🌐 **Studio:** [perai.ir](https://perai.ir)
 - 💼 **LinkedIn:** [in/erfan-jalal](https://www.linkedin.com/in/erfan-jalal)
-- ✉️ **Email:** [info@perai.ir](mailto:info@perai.ir)
+- ✉️ **Email:** [erfan.jalal@ymail.com](mailto:erfan.jalal@ymail.com)
 
 ---
 
